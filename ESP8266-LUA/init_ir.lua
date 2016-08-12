@@ -1,0 +1,1 @@
+tmr.alarm(0,50,1,function() dofile('sendid_ir.lua') end) 
